@@ -1,0 +1,25 @@
+.soda-container {
+    background-image: url('https://cdnb.artstation.com/p/assets/images/images/013/828/977/large/giovanni-de-francesco-coke-x-04b.jpg?1541269653'); /* Replace with your image */
+    background-size: cover;  /* Ensure the image fits within the container */
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;  /* Full width */
+    max-width: 600px;  /* Limit to a reasonable max width */
+    height: 70vh;
+    min-height: 300px;
+    margin: 100px auto;
+    text-align: center;
+    color: #fffafa;
+    text-shadow: 1px 1px 1px black;
+    font-weight: bold;
+}
+
+
+

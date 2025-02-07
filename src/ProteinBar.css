@@ -1,0 +1,24 @@
+.proteinbar-container {
+    background-image: url('https://www.memecreator.org/static/images/memes/4853212.jpg'); /* Replace with your image */
+    background-size: contain;  /* Ensure the image fits within the container */
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;  /* Full width */
+    max-width: 600px;  /* Limit to a reasonable max width */
+    height: 70vh;
+    min-height: 300px;
+    margin: 100px auto;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px black;
+    font-weight: bold;
+}
+
+

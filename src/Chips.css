@@ -1,0 +1,22 @@
+.chips-container {
+    background-image: url('https://i5.walmartimages.com/asr/a971bdae-4a30-4fe2-9332-a4a3148b7257.0c7bf3028104509d1037275060ad90a4.jpeg'); /* Replace with your image */
+    background-size: cover;  /* Ensure the image fits within the container */
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
+    width: 100%;  /* Full width */
+    max-width: 600px;  /* Limit to a reasonable max width */
+    height: 70vh;
+    min-height: 300px;
+    margin: 100px auto;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px black;
+    font-weight: bold;
+}
